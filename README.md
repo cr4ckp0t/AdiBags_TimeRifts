@@ -1,5 +1,5 @@
 # AdiBags_TimeRifts
-Filters items added from Time Rifts, Dragonflight Patch 10.1.5: Fractures in Time.
+Adds a filter to [AdiBags](https://www.curseforge.com/wow/addons/adibags) for items added from Time Rifts, Dragonflight Patch 10.1.5: Fractures in Time.
 
 https://legacy.curseforge.com/wow/addons/adibags-timerifts
 
