@@ -1,6 +1,7 @@
 ## Interface: 100107
 ## Title: AdiBags - Time Rifts
-## Version: 1.0.2
+## IconTexture: Interface\AddOns\AdiBags_TimeRifts\Media\crackpot
+## Version: 1.0.3
 ## Author: Crackpot
 ## Notes: Creates AdiBags filter for Time Rifts added in patch 10.1.5.
 ## X-Category: Bags & Inventory
@@ -8,5 +9,3 @@
 
 Localization.lua
 AdiBags_TimeRifts.lua
-
-
